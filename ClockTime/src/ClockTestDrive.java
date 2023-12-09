@@ -4,5 +4,6 @@ public class ClockTestDrive {
         c.setTime("1245");
         String tod = c.getTime();
         System.out.println("time: " + tod);
+        System.out.println(tod);
     }
 }
